@@ -1,2 +1,2 @@
 # NameIt
-Simple kids game that test their memory of objects and their names. like colors, animals, fruits and vegitables
+Simple,offiline game for kids that test their memory of basic things and their names. like colors, animals, fruits and vegitables
